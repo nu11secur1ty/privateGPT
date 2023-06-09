@@ -21,7 +21,6 @@ Code is up, ⭐ (Star) the repo meanwhile to receive updates
 ## Requirements
 
 * Python 3.10 RECOMMENDED!
-* Support Python-3.11.2
 * Minimum 16GB of memory
 
 ## How to run
