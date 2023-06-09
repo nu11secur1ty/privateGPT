@@ -111,7 +111,7 @@ export default function MainContainer() {
               style={{ color: "black" }}
             >
               <h1 className="mt-sm-5">
-                <small>PrivateGPT by SamurAI</small>
+                <small>PrivateGPT developed by nu11secur1ty</small>
               </h1>
               <h3 style={{ color: "gray" }}>A better UI for PrivateGPT</h3>
             </Stack>
