@@ -1,0 +1,2 @@
+python-3.10.0-amd64.exe
+### Link: https://www.python.org/downloads/release/python-3100/
