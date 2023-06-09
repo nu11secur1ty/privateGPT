@@ -17,11 +17,9 @@ Create a QnA chatbot on your documents without relying on the internet by utiliz
 
 Code is up, ⭐ (Star) the repo meanwhile to receive updates
 
-Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Singh](https://twitter.com/ankur_maker) on twitter for updates
-
 ## Requirements
 
-* Python 3.8 or later
+* Python 3.10 RECOMMENDED!
 * Minimum 16GB of memory
 
 ## How to run
@@ -43,7 +41,7 @@ Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Sin
    ```
 
    ```shell
-   python privateGPT.
+   python privateGPT.py
    ```
 
 3. Open <http://localhost:3000>, click on download model to download the required model initially
@@ -55,6 +53,8 @@ Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Sin
 ## Support
 
 Join our discord <https://discord.gg/A6EzvsKX4u> to get support
+
+And <https://github.com/nu11secur1ty/privateGPT>
 
 ## Data
 
