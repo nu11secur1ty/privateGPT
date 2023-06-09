@@ -55,6 +55,7 @@ Follow [Anil Chandra Naidu Matcha](https://twitter.com/matchaman11) & [Ankur Sin
 ## Support
 
 Join our discord <https://discord.gg/A6EzvsKX4u> to get support
+And <https://github.com/nu11secur1ty/privateGPT>
 
 ## Data
 
