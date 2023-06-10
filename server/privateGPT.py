@@ -173,8 +173,12 @@ def upload_doc():
 
 @app.route('/download_model', methods=['GET'])
 def download_and_save():
-    url = 'https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the URL of the resource to download
-    filename = 'ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the name for the downloaded file
+    #url = 'https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the URL of the resource to download
+    #filename = 'ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the name for the downloaded file
+    ### nu11secur1ty
+    url = 'https://gpt4all.io/models/ggml-vicuna-7b-1.1-q4_2.bin'  # Specify the URL of the resource to download
+    filename = 'ggml-vicuna-7b-1.1-q4_2.bin'  # Specify the name for the downloaded file
+    
     models_folder = 'models'  # Specify the name of the folder inside the Flask app root
 
     if not os.path.exists(models_folder):
@@ -198,7 +202,9 @@ def download_and_save():
     return jsonify(response="Download completed")
 
 def load_model():
-    filename = 'ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the name for the downloaded file
+    #filename = 'ggml-gpt4all-j-v1.3-groovy.bin'  # Specify the name for the downloaded file
+    ### nu11secur1ty
+    filename = 'ggml-vicuna-7b-1.1-q4_2.bin'  # Specify the name for the downloaded file
     models_folder = 'models'  # Specify the name of the folder inside the Flask app root
     file_path = f'{models_folder}/{filename}'
     if os.path.exists(file_path):
