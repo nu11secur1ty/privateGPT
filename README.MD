@@ -7,6 +7,8 @@ Create a QnA chatbot on your documents without relying on the internet by utiliz
 
 ## Math:
 <img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/Screenshot%202023-06-11%20083003.png"><br>
+<img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/math.png"><br>
+
 
 ## Shell answer:
 <img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/Screenshot%202023-06-10%20230258.png"><br>
