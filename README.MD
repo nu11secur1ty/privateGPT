@@ -5,6 +5,9 @@ Create a QnA chatbot on your documents without relying on the internet by utiliz
 <img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/Screenshot%202023-06-09%20202500.png"><br>
 <img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/Screenshot%202023-06-10%20225613.png"><br>
 
+## Shell answer:
+<img width="948" alt="pgpt" src="https://github.com/nu11secur1ty/privateGPT/blob/main/Screen/Screenshot%202023-06-10%20230258.png"><br>
+
 ## Contents
 
 * [Getting started](#getting-started)
@@ -20,7 +23,7 @@ Code is up, ⭐ (Star) the repo meanwhile to receive updates
 
 ## Requirements
 
-* Python 3.10 RECOMMENDED!
+* Python 3.10.0 RECOMMENDED!
 * Minimum 16GB of memory
 
 ## How to run
