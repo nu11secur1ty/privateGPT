@@ -1,1 +1,2 @@
 https://github.com/nomic-ai/gpt4all/tree/main/gpt4all-chat
+https://gpt4all.io/index.html
